@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gerard Du Pre</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
-- 🌱 I’m currently learning **Python**
 - 📫 How to reach me **gerardit4@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
