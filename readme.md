@@ -60,4 +60,3 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/GerardPolloRebozado/GerardPolloRebozado/output/snake.svg" alt="Snake animation" />
-<div align="center"><a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66a417e4f22c59ba756c2716?variant=dark" alt="roadmap.sh"/></a></div>
