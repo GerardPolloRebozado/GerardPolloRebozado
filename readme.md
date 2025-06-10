@@ -18,7 +18,7 @@
 
 ### Languages and tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,express,c,bash,clion,webstorm,cloudflare,docker,figma,firebase,github,githubactions,laravel,linux,nextjs,nix,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,express,c,bash,clion,webstorm,cloudflare,docker,figma,firebase,github,githubactions,laravel,linux,nextjs,php)](https://skillicons.dev)
 
 <br clear="both">
 
