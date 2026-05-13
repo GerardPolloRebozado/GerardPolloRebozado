@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gerard Du Pre</h1>
-<h3 align="center">A passionate web developer from Spain</h3>
+<h3 align="center">A passionate software engineer from Spain</h3>
 
 - 📫 How to reach me **gerardit4@gmail.com | hello@gerarddupre.dev**
 
